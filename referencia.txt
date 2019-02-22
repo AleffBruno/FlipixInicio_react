@@ -1,0 +1,9 @@
+como rodar o projeto:
+    npm run dev
+
+talvez necessario
+    npm install -g webpack
+
+tutorial
+    Flipix React
+    https://www.youtube.com/watch?v=rHcmZQ2n2cQ&list=PLXe1Uv1JGlTbrdrcZIZOabEBSpeNeVHD7&index=3
